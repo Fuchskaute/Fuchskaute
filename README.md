@@ -4,7 +4,22 @@
 
 <p align="left">I am a Gentoo Linux contributor and Xenia Linux developer, where I am responsible for the repositories, package management and develop our portage wrapper, foxmerge.<br><br>I am 22 years old and I am  🇩🇪🇺🇦<br><br>You may contact me at fuchskaute@fuchskaute.xyz or mia@xenialinux.com.<br><br>I am currently looking for employment as a sysadmin or developer.</p>
 
-###
+<h2>Packages I contribute to officially:</h2>
+<ul>
+<li>gui-wm/hyprland::gentoo</li>
+<li>sys-apps/xdg-desktop-portal::gentoo</li>
+<li>sys-kernel/zen-sources::gentoo</li>
+</ul>
+<h2>Packages I maintain</h2>
+<ul>
+  <li>gui-libs/xdg-desktop-portal-hyprland::guru</li>
+</ul>
+
+<b>And lots and lots of LLVM bug reports.</b>
+
+
+
+######
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fuchskaute&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
