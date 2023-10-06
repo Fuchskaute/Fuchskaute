@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Gentoo Linux contributor and Xenia Linux developer, where I am responsible for the repositories, package management and develop our portage wrapper, foxmerge.<br><br>I am 22 years old and I am  🇩🇪🇺🇦<br><br>You may contact me at fuchskaute@fuchskaute.xyz or mia@xenialinux.com.<br><br>I am currently looking for employment as a sysadmin or developer.</p>
+<p align="left">I am a Gentoo Linux contributor and Xenia Linux developer, where I am responsible for the repositories, package management and develop our portage wrapper, foxmerge.<br><br>I am 22 years old and I am  🇩🇪🇺🇦<br><br>You may contact me at fuchskaute@fuchskaute.xyz or mia@xenialinux.com.<br><br></p>
 
 <h2>Packages I contribute to officially:</h2>
 <ul>
