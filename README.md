@@ -1,8 +1,10 @@
 <h2 align="left">Hey there, I'm Fuchskaute/Mia.</h2>
 
+No longer in Hiatus, I lost my domain and IRC bouncer andhad irl things to do so I wasn't very active.
+
 ###
 
-<p align="left">I am a Gentoo Linux contributor and Xenia Linux developer, where I am responsible for the repositories, package management and develop our portage wrapper, foxmerge.<br><br>I am 22 years old and I am  🇩🇪🇺🇦<br><br>You may contact me at fuchskaute@fuchskaute.xyz or mia@xenialinux.com.<br><br></p>
+<p align="left">I am a Gentoo Linux contributor and Xenia Linux developer, where I am responsible for the repositories, package management and develop our portage wrapper, foxmerge.<br><br>I am 22 years old and I am  🇩🇪🇺🇦<br><br>You may contact me at mia@xenialinux.com.<br><br></p>
 
 <h2>Packages I contribute to:</h2>
 <ul>
